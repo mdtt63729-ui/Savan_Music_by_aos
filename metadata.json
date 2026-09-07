@@ -1,0 +1,6 @@
+{
+  "name": "Saavn Music",
+  "description": "Material 3 Music app powered by unofficial Saavn API with 320kbps high quality audio streaming, search, lyrics, top charts, and playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
